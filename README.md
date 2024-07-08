@@ -1,0 +1,1 @@
+Developed a basic calculator using HTML, CSS and JavaScript. It featured a sleek design, a display screen and a properly-aligned buttons using CSS grid styles. The calculator handles basic arithmetic operations through event listeners and logic. 
